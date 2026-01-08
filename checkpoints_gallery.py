@@ -17,7 +17,7 @@ from config.settings import config
 # Import custom widgets
 from widgets import CardDetailsDialog
 
-CRITERIA_LIST = ["beauty", "noErrors", "loras"]
+CRITERIA_LIST = ["beauty", "noErrors", "loras", "Pos prompt", "Neg prompt"]
 
 # Get styles dynamically
 def get_styles():
