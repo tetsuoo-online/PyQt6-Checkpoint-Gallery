@@ -1,0 +1,8 @@
+__pycache__/
+_grids/
+_misc/
+venv/
+*.pyc
+*- Copie*.py
+_PUBLISH.BAT
+*.zip

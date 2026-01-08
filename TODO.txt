@@ -1,0 +1,3 @@
+CRITERIA_LIST = ["beauty", "noErrors", "loras", "Pos prompt", "Neg prompt"]
+
+Capture d'écran avec schéma pour indiquer les différentes fonctions
