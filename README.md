@@ -64,3 +64,14 @@ Tous les styles sont centralisés dans `config/styles.py`:
 - Modifier les couleurs dans le dictionnaire `COLORS`
 - Modifier les fonctions de style pour ajuster l'apparence
 
+
+## 💡 Notes
+
+- ✅ Les images en double sont automatiquement ignorées
+- 🔄 Les noms de checkpoints se mettent à jour automatiquement
+- ⏱️ Appui long pour glisser, clic rapide pour plein écran
+- 🔒 Le premier onglet ne peut pas être supprimé
+
+---
+
+Créé par Tetsuoo avec Claude Sonnet 4.5 ❤️
